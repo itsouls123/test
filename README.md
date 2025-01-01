@@ -1,2 +1,2 @@
-# tezt
+# test
 a test project
